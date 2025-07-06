@@ -5,6 +5,7 @@ pymongo
 seaborn
 matplotlib
 scikit-learn
+certifi
 catboost
 xgboost
 dill
