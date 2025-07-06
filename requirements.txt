@@ -1,0 +1,12 @@
+python-dotenv
+pandas
+numpy
+pymongo
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+Flask
+#-e .
